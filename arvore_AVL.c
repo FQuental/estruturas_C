@@ -1,6 +1,3 @@
-//FELIPE DO QUENTAL ANUNCIA��O 2018013960
-//LAB 10 ECOP12
-
 
 #include <stdio.h>
 #include <stdlib.h>
