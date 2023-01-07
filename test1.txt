@@ -1,0 +1,11 @@
+Escolha (Variável)
+Inicio
+   Caso (Valor1): 
+      Instruções;
+   
+   Caso (Valor2): 
+     Instruções;
+   
+   Caso (ValorN): 
+     Instruções;
+Fim;
